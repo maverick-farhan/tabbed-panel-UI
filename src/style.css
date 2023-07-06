@@ -52,10 +52,6 @@ text-decoration: none;
 padding:1rem;
 color:#000;
 }
-ul.tab-list li a:hover{
-background-color: #eee;
-color:#000;
-}
 div.tab-panel.active{
     width:40rem;
     background-color: #fff;
